@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#fw{ 
+    width: 400px; /* aula 10 */
+    height: 300px; /* aula 10 */
+    border: 2px solid #aaa;
+}
+#title{
+    border: 2px solid black;  /* aula 8 (border) */
+    background-color: #eee; /* aula 7 (background)*/
+    padding: 10px;
+    width: 400px;
+    border-radius: 10%;
+    height: 100px;
+}
+body{
+    margin-top: 1%;
+    margin-left: 35%;
+    font-size: 17px;
+    background-color: #bbb;
+}
+a{
+    margin-left: 35%;
+    font-style: italic;
+
+}
+button{
+    font-size: 20px;
+}
+a:visited{ /* aula 13 */
+    color: #333; /* aula 7 (color)*/
+}
+li:hover{ /* aula 13 */
+    color: red;
+    border-bottom:#333;
+}
